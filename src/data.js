@@ -63,8 +63,8 @@ export const PROFILE = {
     instagram: "",
   },
   cv: "/placeholder.pdf", // TODO: add the CV PDF here
-  photo: "/placeholder.png",
-  aboutPhoto: "/placeholder.png",
+  photo: "",
+  aboutPhoto: "",
 };
 
 export const NAV = [
