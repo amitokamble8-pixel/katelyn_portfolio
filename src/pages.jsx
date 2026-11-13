@@ -144,7 +144,7 @@ export function About() {
   );
   return (
     <section className="section">
-      <PageHead title="About" eyebrow="" />
+      <PageHead title="About" eyebrow="Aspiring Entrepreneur" />
 
       <Reveal>
         <div className="about-split">
