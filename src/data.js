@@ -37,7 +37,7 @@ export const PROFILE = {
   last: "Baffo",
   fullName: "Katelyn Asantewaa Baffo",
   // NOTE: tagline is a suggestion drawn from the CV's themes; confirm.
-  tagline: "RESEARCHER • COMMUNITY LEADER • CREATIVE MIND",
+  tagline: "Aspiring Entrepreneur • Researcher • Community Leader • Creative Mind",
   // NOTE: the CV gives no intended field of study — this headline is inferred
   // from her interest in human behaviour and well-being. Confirm before using.
   altTagline: "Aspiring Psychology & Well-being Student",
